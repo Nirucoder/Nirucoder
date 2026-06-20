@@ -43,9 +43,9 @@ class Nirattay:
 ### 📚 StudyOS
 > Fine-Tuned DSA Preparation Platform
 
-A customized and fine-tuned version of Striver's SDE sheet for DSA preparation. Includes progress tracking, custom features, and an interactive UI for tracking your problem-solving journey.
+A customized, fine-tuned platform for DSA preparation based on Striver's SDE sheet. Includes an interactive dashboard, progress tracking, and detailed analytics for tracking problem-solving journeys.
 
-`JavaScript` `React` `Next.js` `Tailwind`
+`TypeScript` `Next.js` `React` `Tailwind` `Node.js`
 
 [![Repo](https://img.shields.io/badge/View_Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/Striver-sheet-fine-tuned)
 [![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://striver-sheet-fine-tuned.vercel.app)
@@ -53,12 +53,12 @@ A customized and fine-tuned version of Striver's SDE sheet for DSA preparation. 
 </td>
 <td width="50%" valign="top">
 
-### 👁️ MedClassify — Medical Classifier
+### 👁️ MedClassify
 > AI-Powered Medical Document Classifier
 
-CNN-based system that classifies medical documents including handwritten prescriptions, lab reports, and discharge summaries with heuristic override logic for high-speed inference.
+An AI-powered full-stack image classification system. Upload medical documents (prescriptions, lab reports, etc.) to get high-speed, accurate predictions with a modern, responsive UI.
 
-`Python` `TensorFlow` `OpenCV` `TypeScript` `React`
+`TypeScript` `React` `Tailwind` `Node.js` `Python` `TensorFlow` `OpenCV`
 
 [![Repo](https://img.shields.io/badge/View_Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/image-classifier)
 [![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://image-classifier-ten.vercel.app/)
@@ -71,9 +71,9 @@ CNN-based system that classifies medical documents including handwritten prescri
 ### 🍕 Swiggy Demand Predictor
 > Real-Time Food Demand Forecasting Dashboard
 
-Live Streamlit dashboard that scrapes Swiggy in real-time, forecasts order demand using **Prophet + XGBoost**, and visualizes trends with dynamic weather & behavioral analytics.
+A real-time data exploration and forecasting playground. Analyzes food delivery trends, restaurant metrics, and ordering patterns using historical data and live scraping.
 
-`Python` `Prophet` `XGBoost` `Streamlit` `Selenium`
+`Python` `Prophet` `XGBoost` `Streamlit` `Selenium` `Pandas`
 
 [![Repo](https://img.shields.io/badge/View_Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/Swiggy_playground)
 [![Live](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://swiggyplayground-rhachstnfgwrzf4wdxy35f.streamlit.app/)
@@ -84,9 +84,9 @@ Live Streamlit dashboard that scrapes Swiggy in real-time, forecasts order deman
 ### 🔍 EXPLAIN_ML
 > Explainable AI Dashboard — Making Black Boxes Transparent
 
-Upload your own dataset, train an ML model, and instantly visualize **feature importance & SHAP values**. Turns opaque predictions into interpretable, human-readable insights.
+An explainable AI dashboard designed to make black-box models transparent. Train models on custom datasets, reveal feature importance, and explain individual predictions using SHAP values.
 
-`Python` `SHAP` `Scikit-learn` `Streamlit` `Pandas`
+`Python` `Streamlit` `Scikit-learn` `SHAP` `Pandas`
 
 [![Repo](https://img.shields.io/badge/View_Repo-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/EXPLAIN_ML)
 [![Live](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://explainml-m8tjioxm5jrsmiffjfjgtg.streamlit.app/)
@@ -99,9 +99,9 @@ Upload your own dataset, train an ML model, and instantly visualize **feature im
 ### 🎯 AFK-Drishti
 > Edge AI Tactical Surveillance System
 
-ESP32-S3 edge node simulation for real-time threat detection. Bridges hardware IoT sensors with a tactical command dashboard for live situational awareness.
+An edge AI tactical surveillance system simulation. Integrates hardware IoT sensors with a live command dashboard for real-time threat detection and situational awareness.
 
-`Python` `PostgreSQL` `ESP32` `Wokwi` `Streamlit`
+`Python` `OpenCV` `PostgreSQL` `Streamlit` `ESP32`
 
 [![Repo](https://img.shields.io/badge/View_Repo-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/Afk_Drishti)
 
@@ -111,12 +111,39 @@ ESP32-S3 edge node simulation for real-time threat detection. Bridges hardware I
 ### 🌱 KrishiSevak
 > E-Summit Agricultural Tech Platform
 
-An agricultural tech platform built during E-Summit to empower farmers. Features include modern web technologies for delivering critical agricultural services and information.
+An agricultural tech platform built during E-Summit to empower farmers. Delivers critical agricultural services, weather updates, and farming information through a modern web interface.
 
-`TypeScript` `React` `Next.js` `Tailwind`
+`TypeScript` `Next.js` `React` `Tailwind` `Node.js`
 
 [![Repo](https://img.shields.io/badge/View_Repo-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/Esummit_KrishiSevak)
 [![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://esummit-krishi-sevak.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚴‍♂️ Bike Sharing Insider
+> Bike-sharing Demand Prediction
+
+A data science project focusing on analyzing bike-sharing patterns and predicting demand. Uncovers usage trends, peak hours, and seasonal impacts from real-world city datasets.
+
+`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/Bike-sharing_insider)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+> Interactive Developer Portfolio
+
+A modern, highly interactive personal portfolio built with Next.js, React, and Tailwind CSS. Features dynamic animations, a responsive design, and an interactive project showcase.
+
+`TypeScript` `Next.js` `React` `Tailwind` `Framer Motion`
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/Portfolio)
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nirattaybiswas.vercel.app/)
 
 </td>
 </tr>
