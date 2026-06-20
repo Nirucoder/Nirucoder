@@ -61,7 +61,7 @@ CNN-based system that classifies medical documents including handwritten prescri
 `Python` `TensorFlow` `OpenCV` `TypeScript` `React`
 
 [![Repo](https://img.shields.io/badge/View_Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/image-classifier)
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://evodoc-frontend.vercel.app)
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://image-classifier-ten.vercel.app/)
 
 </td>
 </tr>
