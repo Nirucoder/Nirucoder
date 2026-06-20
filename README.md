@@ -40,6 +40,34 @@ class Nirattay:
 <tr>
 <td width="50%" valign="top">
 
+### 📚 StudyOS
+> Fine-Tuned DSA Preparation Platform
+
+A customized and fine-tuned version of Striver's SDE sheet for DSA preparation. Includes progress tracking, custom features, and an interactive UI for tracking your problem-solving journey.
+
+`JavaScript` `React` `Next.js` `Tailwind`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/Striver-sheet-fine-tuned)
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://striver-sheet-fine-tuned.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ MedClassify — Medical Classifier
+> AI-Powered Medical Document Classifier
+
+CNN-based system that classifies medical documents including handwritten prescriptions, lab reports, and discharge summaries with heuristic override logic for high-speed inference.
+
+`Python` `TensorFlow` `OpenCV` `TypeScript` `React`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/image-classifier)
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://evodoc-frontend.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🍕 Swiggy Demand Predictor
 > Real-Time Food Demand Forecasting Dashboard
 
@@ -68,19 +96,6 @@ Upload your own dataset, train an ML model, and instantly visualize **feature im
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ Evodoc — Medical Classifier
-> AI-Powered Medical Document Classifier
-
-CNN-based system that classifies medical documents including handwritten prescriptions, lab reports, and discharge summaries with heuristic override logic for high-speed inference.
-
-`Python` `TensorFlow` `OpenCV` `TypeScript` `React`
-
-[![Repo](https://img.shields.io/badge/View_Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/image-classifier)
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://evodoc-frontend.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎯 AFK-Drishti
 > Edge AI Tactical Surveillance System
 
@@ -89,21 +104,6 @@ ESP32-S3 edge node simulation for real-time threat detection. Bridges hardware I
 `Python` `PostgreSQL` `ESP32` `Wokwi` `Streamlit`
 
 [![Repo](https://img.shields.io/badge/View_Repo-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/Afk_Drishti)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Striver SDE Sheet Platform
-> Fine-Tuned DSA Preparation Platform
-
-A customized and fine-tuned version of Striver's SDE sheet for DSA preparation. Includes progress tracking, custom features, and an interactive UI for tracking your problem-solving journey.
-
-`JavaScript` `React` `Next.js` `Tailwind`
-
-[![Repo](https://img.shields.io/badge/View_Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/Striver-sheet-fine-tuned)
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://striver-sheet-fine-tuned.vercel.app)
 
 </td>
 <td width="50%" valign="top">
