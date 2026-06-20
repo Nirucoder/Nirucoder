@@ -45,7 +45,7 @@ class Nirattay:
 
 A customized, fine-tuned platform for DSA preparation based on Striver's SDE sheet. Includes an interactive dashboard, progress tracking, and detailed analytics for tracking problem-solving journeys.
 
-`TypeScript` `Next.js` `React` `Tailwind` `Node.js`
+`TypeScript` `Next.js` `React` `Tailwind` `Node.js` `Firebase` `OAuth`
 
 [![Repo](https://img.shields.io/badge/View_Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/Striver-sheet-fine-tuned)
 [![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://striver-sheet-fine-tuned.vercel.app)
@@ -58,7 +58,7 @@ A customized, fine-tuned platform for DSA preparation based on Striver's SDE she
 
 An AI-powered full-stack image classification system. Upload medical documents (prescriptions, lab reports, etc.) to get high-speed, accurate predictions with a modern, responsive UI.
 
-`TypeScript` `React` `Tailwind` `Node.js` `Python` `TensorFlow` `OpenCV`
+`TypeScript` `React` `Tailwind` `Node.js` `Python` `TensorFlow` `OpenCV` `Supabase` `OAuth`
 
 [![Repo](https://img.shields.io/badge/View_Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/image-classifier)
 [![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://image-classifier-ten.vercel.app/)
@@ -113,7 +113,7 @@ An edge AI tactical surveillance system simulation. Integrates hardware IoT sens
 
 An agricultural tech platform built during E-Summit to empower farmers. Delivers critical agricultural services, weather updates, and farming information through a modern web interface.
 
-`TypeScript` `Next.js` `React` `Tailwind` `Node.js`
+`TypeScript` `Next.js` `React` `Tailwind` `Node.js` `Firebase` `OAuth`
 
 [![Repo](https://img.shields.io/badge/View_Repo-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/Esummit_KrishiSevak)
 [![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://esummit-krishi-sevak.vercel.app)
