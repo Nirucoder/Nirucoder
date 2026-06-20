@@ -92,6 +92,34 @@ ESP32-S3 edge node simulation for real-time threat detection. Bridges hardware I
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Striver SDE Sheet Platform
+> Fine-Tuned DSA Preparation Platform
+
+A customized and fine-tuned version of Striver's SDE sheet for DSA preparation. Includes progress tracking, custom features, and an interactive UI for tracking your problem-solving journey.
+
+`JavaScript` `React` `Next.js` `Tailwind`
+
+[![Repo](https://img.shields.io/badge/View_Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/Striver-sheet-fine-tuned)
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://striver-sheet-fine-tuned.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 KrishiSevak
+> E-Summit Agricultural Tech Platform
+
+An agricultural tech platform built during E-Summit to empower farmers. Features include modern web technologies for delivering critical agricultural services and information.
+
+`TypeScript` `React` `Next.js` `Tailwind`
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirucoder/Esummit_KrishiSevak)
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://esummit-krishi-sevak.vercel.app)
+
+</td>
+</tr>
 </table>
 
 ---
